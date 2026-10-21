@@ -1,0 +1,6 @@
+{
+  "name": "GestiónPro - Inventario, Facturación y Finanzas",
+  "description": "Sistema integral de gestión empresarial con control de inventario en tiempo real, emisión de facturación electrónica con timbrado digital y reportes financieros automáticos responsive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
